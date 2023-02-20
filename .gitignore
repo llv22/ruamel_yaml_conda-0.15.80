@@ -1,0 +1,6 @@
+# python cache
+__pycache__/
+# mac cache
+.DS_Store
+build/
+.vscode/
